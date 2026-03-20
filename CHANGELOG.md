@@ -1,6 +1,23 @@
 # Release Notes
 
-## [Unreleased](https://github.com/lmsqueezy/laravel/compare/1.8.5...main)
+## [Unreleased](https://github.com/lmsqueezy/laravel/compare/1.9.0...main)
+
+## [1.9.0](https://github.com/lmsqueezy/laravel/compare/1.8.5...1.9.0) - 2026-03-20
+
+### What's Changed
+
+* fix: removing pcntl from required packages by [@Nelwhix](https://github.com/Nelwhix) in https://github.com/lmsqueezy/laravel/pull/141
+* Fix #145: use a new regex for expose listen command by [@einenlum](https://github.com/einenlum) in https://github.com/lmsqueezy/laravel/pull/146
+* Add php 8.5 support by [@NeoIsRecursive](https://github.com/NeoIsRecursive) in https://github.com/lmsqueezy/laravel/pull/150
+* Update Laravel framework version requirement to include 13 by [@larskoole](https://github.com/larskoole) in https://github.com/lmsqueezy/laravel/pull/152
+
+### New Contributors
+
+* [@einenlum](https://github.com/einenlum) made their first contribution in https://github.com/lmsqueezy/laravel/pull/146
+* [@NeoIsRecursive](https://github.com/NeoIsRecursive) made their first contribution in https://github.com/lmsqueezy/laravel/pull/150
+* [@larskoole](https://github.com/larskoole) made their first contribution in https://github.com/lmsqueezy/laravel/pull/152
+
+**Full Changelog**: https://github.com/lmsqueezy/laravel/compare/1.8.5...1.9.0
 
 ## [1.8.5](https://github.com/lmsqueezy/laravel/compare/1.8.4...1.8.5) - 2025-04-11
 
